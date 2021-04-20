@@ -5,9 +5,10 @@ Felicidades por llegar al módulo 2!! En este módulo van a hablar un poco sobre
 Éste módulo consiste de 2 componentes. El primero es el "About me" donde pueden escribir en un breve párrafo algo interesante sobre ustedes o algo que crean que los destaca del resto.
 El segundo componente consiste en indicar que tecnologías saben utilizar y con las que se sienten más cómodos.
 
-## Indicaciones 
+## Indicaciones
+Esta sección irá luego de la anterior, así que pueden desarrollarla dentro del mismo archivo en el que estaban trabajando. La continuación entre una y otra debe verse bien y no olviden que la visualización debe adaptarse a cualquier dispositivo.
 
 ## Ideas extra (opcionales)
-Para mostrar las skills pueden hacer uso de un carousel
+Para mostrar las skills pueden agregar algún hover sobre ellas o hacer uso de un carousel.
 
 ![Muestra Modulo 2](https://res.cloudinary.com/sebasec/image/upload/v1618870660/M%C3%B3dulo_2_t3xbvk.png)
